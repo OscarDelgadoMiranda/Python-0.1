@@ -5,4 +5,4 @@ def MySong(bottles):
 		print "Take one down, pass it around,", bottles-i-1, "bottles of beer on the wall."
 		
 #Llamada a la funcion con el numero de bolletas que quieras
-MySong(10)
+MySong(99)
